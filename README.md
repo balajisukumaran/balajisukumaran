@@ -6,8 +6,8 @@ Software Developer
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [balajisukumaran96@gmail.com](mailto:balajisukumaran96@gmail.com)
-* 🚀  I'm currently working on [Notepad++](http://github.com/balajisukumaran/notepad-plus-plus)
-* 🤝  I'm open to collaborating on web development
+* 🚀  I'm currently working on building a sentiment analysis feature for [Notepad++](http://github.com/balajisukumaran/notepad-plus-plus)
+* 🤝  I'm open to collaborating on web development projects
 
 ### Skills
 
